@@ -1,6 +1,6 @@
-### hey there
+# hey there
 
-# who am i??
+## who am i??
 I'm a High School Senior based in California. I'm currently the software lead on our school's [FRC](https://www.firstinspires.org/robotics/frc) team. I'm experienced in Java, Python, and C++ but have a lot of familiarity with other languages including Swift, JavaScript, Kotlin, and Rust. I've developed many robot codebases, Discord bots, Minecraft mods/clients, and lower level smart home devices.
 
 <!--
