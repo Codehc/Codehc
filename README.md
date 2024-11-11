@@ -9,8 +9,11 @@ I'm an Electrical Engineering student at the [University of California Irvine](h
 
 I have experience programming robots, embedded devices, iOS and Android apps, Discord bots, and Minecraft mods/clients.
 
-## what am i up to rn?
+## what am i up to rn??
 I'm currently on UCI's [Micromouse](https://en.wikipedia.org/wiki/Micromouse) team and am looking to get involved in research at UCI.
+
+## want to reach out to me??
+You can reach out to me through Discord (rezq__), through email ([rbagher1@uci.edu](mailto:rbagher1@uci.edu)), or through Linkedin (linked below).
 
 <div align="center">
     <a href="https://www.linkedin.com/in/reza-bagheri-uci/"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge"></a>
